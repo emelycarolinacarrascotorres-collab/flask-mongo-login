@@ -1,8 +1,8 @@
 ---
-title: Flask Mongo Login
-emoji: 🏆
-colorFrom: red
-colorTo: pink
+title: Flask Mongo
+emoji: 👁
+colorFrom: purple
+colorTo: red
 sdk: docker
 pinned: false
 ---

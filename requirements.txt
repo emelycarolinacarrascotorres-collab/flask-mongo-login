@@ -1,0 +1,7 @@
+gunicorn
+Flask
+datetime
+pymongo[srv]
+Flask-PyMongo
+pytz
+python-dotenv
